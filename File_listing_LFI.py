@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-
-
 import requests, urllib.parse, sys, signal, time
 from colorama import init, Fore, Back, Style
 from pwn import *
