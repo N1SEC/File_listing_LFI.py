@@ -9,5 +9,5 @@ Uso:
 
 `python3 ./File_listing_LFI.py 'http://VICTIM-HOST/index.php?=' wordlist.txt`
 
-El script funciona colocando la URL del host vulnerable hasta el parámetro "=", luego se debe ingresar el diccionario con la lista de archivos a enumerar.
+The script works by placing the URL of the vulnerable host up to the "=" parameter, then enter the dictionary with the list of files to enumerate.
 
